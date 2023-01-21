@@ -1,0 +1,623 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.blogs2,
+.chcodes2,
+.home2 {
+  position: relative;
+  font-weight: 600;
+}
+.blogs2,
+.home2 {
+  text-decoration: none;
+  color: inherit;
+}
+.blogs2 {
+  cursor: pointer;
+}
+.navbar-links2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 64px;
+  font-size: 22px;
+}
+.navbar-content2 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.vector-icon16 {
+  position: relative;
+  width: 18px;
+  height: 12px;
+  flex-shrink: 0;
+}
+.cihamburger2 {
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  padding: 6px 3px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbar2 {
+  align-self: stretch;
+  background-color: #fbbc04;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 35px 45px;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  font-size: 32px;
+  color: #fdfdfd;
+}
+.header-section-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #0a0a23;
+  width: 1440px;
+  height: 634px;
+}
+.header-section-child2 {
+  position: absolute;
+  top: 48px;
+  left: 570px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.vector-icon17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logoslinkedin-icon2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 66px;
+  height: 66px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.vector-icon18 {
+  position: absolute;
+  height: 81.31%;
+  width: 83.33%;
+  top: 8.33%;
+  right: 8.33%;
+  bottom: 10.35%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mdigithub2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fff;
+  position: relative;
+  width: 66px;
+  height: 66px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.vector-icon19,
+.vector-icon20,
+.vector-icon21,
+.vector-icon22,
+.vector-icon23 {
+  position: absolute;
+  height: 73.86%;
+  width: 22.73%;
+  top: 25.65%;
+  right: 77.27%;
+  bottom: 0.49%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon20,
+.vector-icon21,
+.vector-icon22,
+.vector-icon23 {
+  right: 0;
+  left: 77.27%;
+}
+.vector-icon21,
+.vector-icon22,
+.vector-icon23 {
+  height: 66.32%;
+  width: 58%;
+  top: 9.07%;
+  right: 20.9%;
+  bottom: 24.61%;
+  left: 21.1%;
+}
+.vector-icon22,
+.vector-icon23 {
+  height: 48.26%;
+  width: 22.73%;
+  top: 0;
+  right: 0;
+  bottom: 51.74%;
+  left: 77.27%;
+}
+.vector-icon23 {
+  right: 77.27%;
+  left: 0;
+}
+.social-icons2 {
+  position: absolute;
+  top: 388px;
+  left: 541px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+}
+.name-description-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 889px;
+  height: 102px;
+}
+.chandrahassan-jb2,
+.hi-i-am2 {
+  position: absolute;
+  top: 73px;
+  left: 147px;
+  font-weight: 600;
+}
+.chandrahassan-jb2 {
+  top: 7px;
+  left: 238px;
+  font-size: 36px;
+}
+.name-description2 {
+  position: absolute;
+  top: 492px;
+  left: 275px;
+  width: 889px;
+  height: 102px;
+}
+.header-section2 {
+  position: relative;
+  width: 1440px;
+  height: 634px;
+  flex-shrink: 0;
+}
+.hero-section-frame2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+.my-projects2 {
+  position: relative;
+}
+.my-projects-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 42px;
+}
+.logoshtml-5-icon2 {
+  position: absolute;
+  top: 7px;
+  left: 226px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.html-css2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.logoscss-3-icon2 {
+  position: absolute;
+  top: 7px;
+  left: 264px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.logoshtml-5-container {
+  position: relative;
+  width: 294px;
+  height: 44px;
+  flex-shrink: 0;
+}
+.material-symbolsarrow-drop-do-icon8 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-parent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.deploylink-btn-child30 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: rgba(32, 82, 177, 0.88);
+}
+.deployed-link33,
+.deploylink-btn33 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.deployed-link33 {
+  height: 36.59%;
+  width: 58.52%;
+  top: 31.71%;
+  left: 20.74%;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.deploylink-btn33 {
+  height: 11.71%;
+  width: 36.39%;
+  top: 77.43%;
+  right: 6.47%;
+  bottom: 10.86%;
+  left: 57.14%;
+}
+.sourcecode-btn-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: #25ab75;
+}
+.source-code33 {
+  position: absolute;
+  height: 36.59%;
+  width: 54.07%;
+  top: 31.71%;
+  left: 22.96%;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.sourcecode-btn-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 11.71%;
+  width: 36.39%;
+  top: 77.43%;
+  right: 57.14%;
+  bottom: 10.86%;
+  left: 6.47%;
+}
+.mask-group-icon32 {
+  position: absolute;
+  height: 62.86%;
+  width: 100%;
+  top: 2%;
+  right: 0;
+  bottom: 35.14%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.card18 {
+  position: relative;
+  width: 371px;
+  height: 350.01px;
+  flex-shrink: 0;
+}
+.deployed-link34 {
+  position: absolute;
+  height: 36.59%;
+  width: 58.52%;
+  top: 31.71%;
+  left: 20.74%;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.card4-item {
+  position: absolute;
+  height: 94.28%;
+  width: 100%;
+  top: 2%;
+  right: 0;
+  bottom: 3.72%;
+  left: 0;
+  border-radius: 4px;
+  background-color: #0a0a23;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.digital-marketing-home {
+  position: absolute;
+  top: 233px;
+  left: 17px;
+  font-weight: 600;
+}
+.deploylink-btn-child34 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: rgba(32, 82, 177, 0.88);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+}
+.deployed-link37 {
+  position: absolute;
+  height: 36.59%;
+  width: 58.52%;
+  top: 31.71%;
+  left: 20.74%;
+  font-weight: 600;
+  display: inline-block;
+}
+.deploylink-btn37 {
+  position: absolute;
+  height: 11.71%;
+  width: 36.39%;
+  top: 77.43%;
+  right: 6.47%;
+  bottom: 10.86%;
+  left: 57.14%;
+}
+.card4-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-parent6 {
+  align-items: center;
+  justify-content: center;
+  gap: 45px;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-parent6,
+.sec-012,
+.section-18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.section-18 {
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.sec-012 {
+  background-color: #fff;
+  overflow: hidden;
+  padding: 10px 63px;
+  align-items: center;
+  justify-content: center;
+}
+.logostailwindcss-icon2 {
+  position: absolute;
+  top: 7px;
+  left: 244px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.logostailwindcss-icon-container {
+  position: relative;
+  width: 274px;
+  height: 44px;
+  flex-shrink: 0;
+}
+.material-symbolsarrow-drop-do-icon9 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.card1-parent7,
+.sec-022 {
+  align-self: stretch;
+  display: flex;
+}
+.card1-parent7 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #fff;
+}
+.sec-022 {
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 10px 63px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.logosjavascript-icon2,
+.vscode-iconsfile-type-reactjs2 {
+  position: absolute;
+  top: 7px;
+  left: 201px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.vscode-iconsfile-type-reactjs2 {
+  top: 6px;
+  left: 169px;
+  width: 32px;
+  height: 32px;
+}
+.sourcecode-btn-child50 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #25ab75;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+}
+.source-code54 {
+  position: absolute;
+  height: 36.59%;
+  width: 54.07%;
+  top: 31.71%;
+  left: 22.96%;
+  font-weight: 600;
+  display: inline-block;
+}
+.deploylink-btn56,
+.sourcecode-btn53,
+.sourcecode-btn55 {
+  position: absolute;
+  height: 11.71%;
+  width: 36.39%;
+  top: 77.43%;
+  right: 57.14%;
+  bottom: 10.86%;
+  left: 6.47%;
+}
+.deploylink-btn56,
+.sourcecode-btn55 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 6.47%;
+  left: 57.14%;
+}
+.sourcecode-btn55 {
+  right: 57.14%;
+  left: 6.47%;
+}
+.web-page-01 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 36px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1200px) {
+  .hi-i-am2 {
+    display: none;
+  }
+  .chandrahassan-jb2 {
+    padding-top: 25px;
+  }
+  .name-description2 {
+    opacity: 1;
+  }
+  .name-description2.animate {
+    animation: 1s ease 0s 1 normal forwards scale-down-center;
+  }
+  @keyframes scale-down-center {
+    0% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+    }
+    to {
+      -webkit-transform: scale(0.5);
+      transform: scale(0.5);
+    }
+  }
+  .card1-parent7,
+  .card4-group,
+  .frame-parent6 {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 768px) {
+  .navbar-links2 {
+    display: none;
+  }
+  .cihamburger2 {
+    display: flex;
+  }
+  .logoshtml-5-container,
+  .logostailwindcss-icon-container {
+    margin-left: -8%;
+    padding-right: 5%;
+  }
+}
