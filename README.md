@@ -1,10 +1,10 @@
+# My-Portfolio-Website
 
-  # My-Portfolio
+![Badge with LCO and ineuron tagged](https://img.shields.io/badge/Figma-pink) --> ![Badge with LCO and ineuron tagged](https://img.shields.io/badge/Locofy.ai-blue) --> ![Badge with LCO and ineuron tagged](https://img.shields.io/badge/Locofy.ai-builder-blue) --> ![Badge with LCO and ineuron tagged](https://img.shields.io/badge/Vercel-black)
+### A Portfolio Site Designed with Figma and code generated using AI Plugin called Locofy.ai and deployed it in Vercel
+- Learned a lot about UX Design and principles 
+- Learned about creating components and its usage in figma
+- Learned how to tag elements in Locofy.ai and adding responsiveness to the frames with autolayout (fill, Hug) and different styles to the individual elements.
+- Learned about Creating tokens for deployments in vercel and generate code in Locofy builder and making sites Live.
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">node js</a></code>
-
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+[Deployed Link](https://my-portfolio-figma-to-locofy.vercel.app/)
